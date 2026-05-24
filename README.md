@@ -7,7 +7,7 @@ Here are some of my projects:
 
 ---
 
-## 🎮 Text Adventure World [git link](https://github.com/NoaAllouche/Text-Adventure-World.git)
+## 🎮 Text Adventure World [(click here to see)](https://github.com/NoaAllouche/Text-Adventure-World.git)
 
 A 2-player cooperative console adventure game developed in C++.
 
@@ -17,7 +17,7 @@ A 2-player cooperative console adventure game developed in C++.
 
 ---
 
-## ♞ CheckMate Project [git link](https://github.com/NoaAllouche/CheckMate.git)
+## ♞ CheckMate Project [(click here to see)](https://github.com/NoaAllouche/CheckMate.git)
 
 A chess knight path-finding project developed in C.
 
@@ -27,7 +27,7 @@ A chess knight path-finding project developed in C.
 
 ---
 
-## 🐂 Bulls and Cows Solver [git link](https://github.com/NoaAllouche/Bulls-And-Cows-Solver.git)
+## 🐂 Bulls and Cows Solver [(click here to see)](https://github.com/NoaAllouche/Bulls-And-Cows-Solver.git)
 
 A Python implementation of the classic Bulls and Cows game solver.
 
