@@ -7,7 +7,7 @@ Here are some of my projects:
 
 ---
 
-## 🎮 Text Adventure World [(click here to see)](https://github.com/NoaAllouche/Text-Adventure-World.git)
+## [🎮 Text Adventure World](https://github.com/NoaAllouche/Text-Adventure-World.git)
 
 A 2-player cooperative console adventure game developed in C++.
 
@@ -27,7 +27,7 @@ A collaborative Java prediction-market simulation built using a modular, object-
 
 ---
 
-## ♞ CheckMate Project [(click here to see)](https://github.com/NoaAllouche/CheckMate.git)
+## [♞ CheckMate Project](https://github.com/NoaAllouche/CheckMate.git)
 
 A chess knight path-finding project developed in C.
 
@@ -37,7 +37,7 @@ A chess knight path-finding project developed in C.
 
 ---
 
-## 🐂 Bulls and Cows Solver [(click here to see)](https://github.com/NoaAllouche/Bulls-And-Cows-Solver.git)
+## [🐂 Bulls and Cows Solver](https://github.com/NoaAllouche/Bulls-And-Cows-Solver.git)
 
 A Python implementation of the classic Bulls and Cows game solver.
 
@@ -49,15 +49,15 @@ A Python implementation of the classic Bulls and Cows game solver.
 
 # 🚀 Technologies & Topics
 
-- C++
-- C
-- Python
-- Object-Oriented Programming
-- Algorithms
-- Data Structures
-- Recursion
-- Dynamic Memory Allocation
-- Console Applications
+Programming Languages: C, C++, Java, Python, Verilog
+
+Java & Backend: JavaFX, Java Servlets, Apache Tomcat, HTTP APIs, JAXB, Gson
+
+Data & AI: Machine Learning, Data Analysis, NumPy, pandas, scikit-learn
+
+Development Tools: Git, GitHub, IntelliJ IDEA, Postman, Docker
+
+Core Concepts: Object-Oriented Programming, Client–Server Architecture, Algorithms, Data Structures, Recursion, Dynamic Memory Allocation
 
 ---
 
