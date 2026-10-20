@@ -17,6 +17,16 @@ A 2-player cooperative console adventure game developed in C++.
 
 ---
 
+## [📈 GuessMarket Project](https://github.com/NoaAllouche/GuessMarket.git)
+
+A collaborative Java prediction-market simulation built using a modular, object-oriented architecture.
+
+- Implements market event management, share trading, and pricing mechanisms such as LMSR and Order Book.
+- Includes a JavaFX desktop interface and a client–server architecture using HTTP communication.
+- Uses XML and JSON for event configuration and data exchange, with support for user accounts, trading history, and market resolution.
+
+---
+
 ## ♞ CheckMate Project [(click here to see)](https://github.com/NoaAllouche/CheckMate.git)
 
 A chess knight path-finding project developed in C.
